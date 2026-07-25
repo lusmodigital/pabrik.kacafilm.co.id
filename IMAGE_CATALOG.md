@@ -23,7 +23,7 @@ Scope: article media planning only. No prose, HTML hydration, sitemap edit, depl
 
 | Image ID | Direct hotlink URL | Source page | Creator | License | License URL | Metadata inference |
 |---|---|---|---|---|---|---|
-| EXT-001 | https://upload.wikimedia.org/wikipedia/commons/e/eb/Akiko_Wakabayashi.jpg | https://commons.wikimedia.org/wiki/File:Akiko_Wakabayashi.jpg | Luigi Filippo D'Amico / Alfio Contini | Public domain |  | Akiko Wakabayashi.jpg |
+| EXT-001 | https://upload.wikimedia.org/wikipedia/commons/e/eb/Akiko_Wakabayashi.jpg | https://commons.wikimedia.org/wiki/File:Akiko_Wakabayashi.jpg | Luigi Filippo D'Amico / Alfio Contini | Public domain | https://commons.wikimedia.org/wiki/Commons:Public_domain | Akiko Wakabayashi.jpg |
 
 ## Article image assignments
 

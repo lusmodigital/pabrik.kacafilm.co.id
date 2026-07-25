@@ -64,7 +64,7 @@ sources:
 - **Source type:** `wikimedia-commons`
 - **Placement:** after the opening has answered the main question, before the first detailed H2
 - **Exact Markdown to insert:** `![Ilustrasi Akiko Wakabayashi.jpg](https://upload.wikimedia.org/wikipedia/commons/e/eb/Akiko_Wakabayashi.jpg)`
-- **Caption/credit:** Luigi Filippo D'Amico / Alfio Contini — Public domain — Wikimedia Commons. [Sumber](https://commons.wikimedia.org/wiki/File:Akiko_Wakabayashi.jpg); lisensi Public domain.
+- **Caption/credit:** Luigi Filippo D'Amico / Alfio Contini — Public domain — Wikimedia Commons. [Sumber](https://commons.wikimedia.org/wiki/File:Akiko_Wakabayashi.jpg); lisensi [Public domain](https://commons.wikimedia.org/wiki/Commons:Public_domain).
 - **Selection basis:** filename/source metadata identifies `Akiko Wakabayashi.jpg` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: EXT-001]` and continue drafting the prose.
